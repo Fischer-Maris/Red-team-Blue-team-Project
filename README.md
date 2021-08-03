@@ -1,2 +1,2 @@
-# Red-team-Blue-team-Project
-In this Project I played both roles Red as a Pentester and Blue as an Analyst. 
+[Copy.of.Project.2.Red_Blue.Team.pdf](https://github.com/Fischer-Maris/Red-team-Blue-team-Project/files/6926939/Copy.of.Project.2.Red_Blue.Team.pdf)
+ 
